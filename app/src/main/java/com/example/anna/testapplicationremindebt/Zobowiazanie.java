@@ -1,8 +1,9 @@
 package com.example.anna.testapplicationremindebt;
 
 import java.util.Date;
+import java.io.Serializable;
 
-public class Zobowiazanie {
+public class Zobowiazanie implements Serializable {
     private  String nazwa, waluta;
     private Podmiot podmiot;
     private Date data;
@@ -30,6 +31,11 @@ public class Zobowiazanie {
 
     public String getWaluta() {
         return waluta;
+    }
+
+    @Override
+    public String toString() {
+        return nazwa;
     }
 }
 

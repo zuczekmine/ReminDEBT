@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">TestApplicationReminDEBT</string>
+    <string name="app_name">ReminDEBT</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
@@ -8,4 +8,34 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--activity_main_drawer.xml -->
+    <string name="ac_main_dodaj_podmiot">Dodaj podmiot</string>
+    <string name="ac_main_naleznosci">Należności</string>
+    <string name="ac_main_zobowiazania">Zobowiązania</string>
+    <string name="ac_main_statystyki">Statystyki</string>
+    <string name="ac_main_ustawienia">Ustawienia</string>
+    <string name="ac_main_tworcy">Twórcy</string>
+
+    <!--nav_header_main.xml -->
+    <string name="nav_header_main_tytul">ReminDEBT</string>
+    <string name="nav_header_main_podtyul">Application for your debts</string>
+
+    <!--fragment_dodaj_podm.xml -->
+    <string name="frag_przedsiebiorstwo">Przedsiębiorstwo</string>
+    <string name="frag_nazwa_podmiotu">Wpisz nazwę podmiotu</string>
+
+    <!--fragment_naleznosci.xml -->
+    <string name="frag_naleznosc_tytul">Wpisz tytuł należności</string>
+    <string name="frag_naleznosc_wybierz_podmiot">Wybierz podmiot:</string>
+    <string name="frag_naleznosc_kwota">Wpisz kwotę należności</string>
+    <string name="frag_naleznosc_wybierz_walute">Wybierz walutę:</string>
+    <string name="frag_naleznosc_wybierz_date">Kliknij, aby wybrać datę</string>
+
+    <!--fragment_zobowiazania.xml -->
+    <string name="frag_zobowiazania_tytul">Wpisz tytuł zobowiązania</string>
+    <string name="frag_zobowiazania_wybierz_podmiot">Wybierz podmiot:</string>
+    <string name="frag_zobowiazania_kwota">Wpisz kwotę zobowiązania</string>
+    <string name="frag_zobowiazania_wybierz_walute">Wybierz walutę:</string>
+    <string name="frag_zobowiazania_wybierz_date">Kliknij, aby wybrać datę</string>
 </resources>

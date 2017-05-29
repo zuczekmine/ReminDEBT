@@ -64,13 +64,11 @@ public class FragmentNaleznosci extends Fragment {
         waluty.add("PLN");
         waluty.add("USD");
         waluty.add("EUR");
-        waluty.add("CHF");
-        waluty.add("GBP");
-        waluty.add("RUB");
         kwotaNal = 0.0;
         walutaWybranaNal = "";
         nazwaNaleznosci = "";
         dataWybranaNal = "";
+        kwotaWybranaNal = "";
 
 
         try {

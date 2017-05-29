@@ -61,15 +61,13 @@ public class FragmentZobowiazania extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.fragment_zobowiazania, container, false);
-        /*waluty.add("PLN");
+        waluty.add("PLN");
         waluty.add("USD");
         waluty.add("EUR");
-        waluty.add("CHF");
-        waluty.add("GBP");
-        waluty.add("RUB");
         kwotaZob = 0.0;
         walutaWybranaZob = "";
         nazwaZobowiazania = "";
+        kwotaWybranaZob = "";
         dataWybranaZob = "";
 
 
@@ -175,7 +173,7 @@ public class FragmentZobowiazania extends Fragment {
                 if (dataWybranaZob.equals("")) {
                     Toast.makeText(FragmentZobowiazania.this.getActivity(), "Wybierz datę!", Toast.LENGTH_SHORT).show();
                 } else if (nazwaZobowiazania.equals("")) {
-                    Toast.makeText(FragmentZobowiazania.this.getActivity(), "Wybierz nazwę należności!", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(FragmentZobowiazania.this.getActivity(), "Wybierz nazwę zobowiązania!", Toast.LENGTH_SHORT).show();
                 } else if (walutaWybranaZob.equals("")) {
                     Toast.makeText(FragmentZobowiazania.this.getActivity(), "Wybierz walutę!", Toast.LENGTH_SHORT).show();
                 } else if (kwotaWybranaZob.equals("")) {
@@ -194,19 +192,19 @@ public class FragmentZobowiazania extends Fragment {
                     onButtonPressed(zobowiazania, KLUCZ);
                 }
             }
-        });*/
+        });
 
         return view;
     }
 
-   /* private void updateLabel() {
+   private void updateLabel() {
 
         String myFormat = "dd/MM/yy"; //In which you need put here
-        sdf = new SimpleDateFormat(myFormat, Locale.UK);
+        sdf = new SimpleDateFormat(myFormat);
 
         etWybierzDateZob.setText(sdf.format(myCalendar.getTime()));
         dataWybranaZob = etWybierzDateZob.getText().toString();
-    }*/
+    }
 
     // TODO: Rename method, update argument and hook method into UI event
     public void onButtonPressed(ArrayList zobowiazania, String KLUCZ) {

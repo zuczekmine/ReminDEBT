@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anna\.android\build-cache\fd24643c1a30b59819b818de4163969d796298b9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="12e67307b10da7aad1bd09af41f281a2fed08d96">
+        <dex dex="C:\Users\Anna\AndroidStudioProjects\TestApplicationReminDEBT\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_618e318c4c046e72174b74b9bbd0b474f880d9e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anna\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\1.6.1\6f3b8a24bf970f17289b234284c94f43eb42f0e4\slf4j-api-1.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6f3b8a24bf970f17289b234284c94f43eb42f0e4">
+        <dex dex="C:\Users\Anna\AndroidStudioProjects\TestApplicationReminDEBT\app\build\intermediates\transforms\dex\debug\folders\1000\10\slf4j-api-1.6.1_69347849dd1139f0f2dbb3d11422716e59b7e3ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anna\.gradle\caches\modules-2\files-2.1\log4j\log4j\1.2.14\3b254c872b95141751f414e353a25c2ac261b51\log4j-1.2.14.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="03b254c872b95141751f414e353a25c2ac261b51">
+        <dex dex="C:\Users\Anna\AndroidStudioProjects\TestApplicationReminDEBT\app\build\intermediates\transforms\dex\debug\folders\1000\10\log4j-1.2.14_409894d7b666936bde0f4e770fb7e87eba5e789a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anna\.gradle\caches\modules-2\files-2.1\net.sf.ehcache\ehcache-core\2.4.3\fd258ef6959f27fb678b04f90139ded4588e2d15\ehcache-core-2.4.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fd258ef6959f27fb678b04f90139ded4588e2d15">
+        <dex dex="C:\Users\Anna\AndroidStudioProjects\TestApplicationReminDEBT\app\build\intermediates\transforms\dex\debug\folders\1000\10\ehcache-core-2.4.3_581afbfa4746ceb7e79b33887fc7d469a4a3b0a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anna\AndroidStudioProjects\TestApplicationReminDEBT\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a90097846815277a9048879104f2220fcd2ab3e8">
+        <dex dex="C:\Users\Anna\AndroidStudioProjects\TestApplicationReminDEBT\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b349e4022a12da133d48fd8e79a3b95570d0a254\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anna\.gradle\caches\modules-2\files-2.1\joda-time\joda-time\2.9.4\1c295b462f16702ebe720bbb08f62e1ba80da41b\joda-time-2.9.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1c295b462f16702ebe720bbb08f62e1ba80da41b">
+        <dex dex="C:\Users\Anna\AndroidStudioProjects\TestApplicationReminDEBT\app\build\intermediates\transforms\dex\debug\folders\1000\10\joda-time-2.9.4_7dd3061090186fd7cfc1d43f62a8d311c1b165c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anna\AndroidStudioProjects\TestApplicationReminDEBT\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Anna\AndroidStudioProjects\TestApplicationReminDEBT\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5371439a6983a39bb992407481c0821fce90528d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anna\.gradle\caches\modules-2\files-2.1\com.tunyk.currencyconverter\currency-converter-api\1.0\bce9dad574392921cafac298f18e678f2b2af6dd\currency-converter-api-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bce9dad574392921cafac298f18e678f2b2af6dd">
+        <dex dex="C:\Users\Anna\AndroidStudioProjects\TestApplicationReminDEBT\app\build\intermediates\transforms\dex\debug\folders\1000\10\currency-converter-api-1.0_9f55d36bf6144a4baa7419647395f8cc0ddb0d79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Anna\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-log4j12\1.5.10\8274abbf7065ca15cf877d199a8bf75dba87f36\slf4j-log4j12-1.5.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="08274abbf7065ca15cf877d199a8bf75dba87f36">
+        <dex dex="C:\Users\Anna\AndroidStudioProjects\TestApplicationReminDEBT\app\build\intermediates\transforms\dex\debug\folders\1000\10\slf4j-log4j12-1.5.10_8229ddfa9e275ed44657f0eb60ece14eada60c12\classes.dex" />
+    </item>
+
+</items>

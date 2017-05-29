@@ -44,12 +44,6 @@ public class FragmentDodajPodm extends Fragment {
      * @return A new instance of fragment FragmentDodajPodm.
      */
 
-
-    @Override
-    public void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-    }
-
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
